@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![insta2](https://user-images.githubusercontent.com/77361496/109569813-0962b600-7ab7-11eb-9c09-9b61e50ac41f.gif)
+![20posts](https://user-images.githubusercontent.com/77361496/109903000-3656ca80-7c69-11eb-8365-c46b26bb7108.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
